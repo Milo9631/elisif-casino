@@ -1,1 +1,13 @@
-{}
+{
+	"1174824362122166282": {
+		"prefix": "/",
+		"music_channels": [],
+		"command_channels": [],
+		"custom_commands": [],
+		"extensions": [],
+		"startingBalance": 50,
+		"battleshipTurns": 25,
+		"dollarsPerMessage": 1,
+		"bot_disabled": false
+	}
+}
